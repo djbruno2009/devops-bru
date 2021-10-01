@@ -1,0 +1,23 @@
+{
+  "name": "devops-bru",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djbruno2009/devops-bru.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djbruno2009/devops-bru/issues"
+  },
+  "homepage": "https://github.com/djbruno2009/devops-bru#readme",
+  "dependencies": {
+    "create-react-app": "^4.0.3",
+    "frontend": "^2.0.0-alpha.4"
+  }
+}
